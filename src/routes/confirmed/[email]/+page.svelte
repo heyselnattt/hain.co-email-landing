@@ -4,6 +4,10 @@
   export let data;
 </script>
 
+<svelte:head>
+  <title>Hain.co | Email Verified</title>
+</svelte:head>
+
 <div class="hero is-fullheight">
   <div class="hero-body is-flex is-flex-direction-column is-justify-content-center is-align-items-center">
     <!-- logo -->
