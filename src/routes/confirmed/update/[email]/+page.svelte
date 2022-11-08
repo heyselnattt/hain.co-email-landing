@@ -16,16 +16,16 @@
     </div>
 
     <!-- title -->
-    <div class="lobster is-size-1-desktop is-size-3-touch has-text-success has-text-centered">
+    <div class="titanone is-size-1-desktop is-size-3-touch has-text-success has-text-centered">
       Email Updated!
     </div>
 
     <!-- subtitle -->
-    <div class="mb-6 karla is-size-6-tablet is-size-7-mobile has-text-centered">
+    <div class="mb-6 mont is-size-6-tablet is-size-7-mobile has-text-centered">
       Your new email is {data.email}
     </div>
 
-    <div class="button is-rounded is-success has-text-white mt-6 is-large is-responsive karla">
+    <div class="button is-rounded is-success has-text-white mt-6 is-large is-responsive mont">
       Download App
     </div>
   </div>
