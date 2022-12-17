@@ -24,9 +24,5 @@
     <div class="mb-6 mont is-size-6-tablet is-size-7-mobile has-text-centered">
       Your new email is {data.email}
     </div>
-
-    <div class="button is-rounded is-success has-text-white mt-6 is-large is-responsive mont">
-      Download App
-    </div>
   </div>
 </div>
